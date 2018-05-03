@@ -1,7 +1,7 @@
 language: node_js
 
 before_script:
-  - npm install
+  - bower i
 
 script:
-  - npm test
+  - polymer test
