@@ -5,4 +5,4 @@ before_script:
   - bower i
 
 script:
-  - polymer test
+  - npm test
